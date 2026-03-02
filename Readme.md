@@ -1,5 +1,5 @@
 # 👋 I'm Devadutta Ghat
-> You can call me “dev” because I’m a dev and my name is "Dev" ;)
+> Dev the dev ;)
 
 I build products. Agentic AI systems that do real work is my current focus.
 
@@ -25,6 +25,7 @@ Try it --> create a video with agentic ai here [ngram.com](https://ngram.com)
 ## 🧪 Itch-Scratch ware
 
 - 🍳 [cook](https://github.com/devadutta/cook) -- Microagent that runs in your shell
+- 🐚 [cadre](https://github.com/devadutta/cadre) -- Better than cd. Seriously.
 - 📸 [shot2](https://github.com/devadutta/shot2) -- Screenshots that don't waste your tokens.
 - 🥝 [Kiwi](https://github.com/devadutta/Kiwi) -- Voice dictation app built for developers
 - 📬 [inboxtutor](https://inboxtutor.net) -- Daily lessons over email
