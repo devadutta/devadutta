@@ -13,9 +13,7 @@ Give it an idea, URL, doc, or demo.
 It plans the storyboard, writes the script, generates scenes, adds voiceover, and ships a finished cut.
 
 
-Try it --> [ngram.com](https://ngram.com)
-
----
+Try it --> create a video with agentic ai here [ngram.com](https://ngram.com)
 
 ## 🏗 Previously
 
@@ -27,7 +25,7 @@ Try it --> [ngram.com](https://ngram.com)
 ## 🧪 Itch-Scratch ware
 
 - 🍳 [cook](https://github.com/devadutta/cook) -- Microagent that runs in your shell
-- 📸 [shot2](https://github.com/devadutta/shot2) -- Screenshotting tool
+- 📸 [shot2](https://github.com/devadutta/shot2) -- Screenshots that don't waste your tokens.
 - 🥝 [Kiwi](https://github.com/devadutta/Kiwi) -- Voice dictation app built for developers
 - 📬 [inboxtutor](https://inboxtutor.net) -- Daily lessons over email
 
