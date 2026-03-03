@@ -29,5 +29,11 @@ Try it --> create a video with agentic ai here [ngram.com](https://ngram.com)
 - 📸 [shot2](https://github.com/devadutta/shot2) -- Screenshots that don't waste your tokens.
 - 🥝 [Kiwi](https://github.com/devadutta/Kiwi) -- Voice dictation app built for developers
 - 📬 [inboxtutor](https://inboxtutor.net) -- Daily lessons over email
-
-
+- ☁️ [opencodespace](https://github.com/devadutta/opencodespace) - Run claude dangerously.
+- 🧠 [fishbrain](https://github.com/devadutta/fishbrain) - WebUI for stockfish.
+- 🐟 [restingfish](https://github.com/devadutta/restingfish) - A rest server for stockfish
+- 🔗 [getshort](https://github.com/devadutta/getshort) - super simple short link generator in about 10 lines of code.
+- 🎯 [focus](https://github.com/devadutta/focus) - Chrome extension that can help you avoid distractions
+- 🛒 [Amazon-Search-Tweak-s-](https://github.com/devadutta/Amazon-Search-Tweak-s-) - Chrome extension to make Amazon search simpler.
+- 📅 [days](https://github.com/devadutta/days) - Days since timer. Simple HTML.
+- 🔔 [chime](https://github.com/devadutta/chime) - TUI Pomodoro Timer
